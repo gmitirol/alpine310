@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## [1.0.18] - 2020-12-16
+- Update Alpine packages
+- Use tagged versions of docker and dind, use new --all-tags parameter
+
 ## [1.0.17] - 2020-11-30
 - Update Alpine packages
 
@@ -61,7 +65,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ## 1.0.0 - 2019-06-24
 - Initial public release
 
-[Unreleased]:  https://github.com/gmitirol/alpine310/compare/1.0.17...HEAD
+[Unreleased]:  https://github.com/gmitirol/alpine310/compare/1.0.18...HEAD
+[1.0.18]: https://github.com/gmitirol/alpine310/compare/1.0.17...1.0.18
 [1.0.17]: https://github.com/gmitirol/alpine310/compare/1.0.16...1.0.17
 [1.0.16]: https://github.com/gmitirol/alpine310/compare/1.0.15...1.0.16
 [1.0.15]: https://github.com/gmitirol/alpine310/compare/1.0.14...1.0.15
