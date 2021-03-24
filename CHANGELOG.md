@@ -6,6 +6,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## [1.0.20] - 2021-03-24
+- Update Alpine packages
+
 ## [1.0.19] - 2021-02-22
 - Update Alpine packages
 
@@ -68,7 +71,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ## 1.0.0 - 2019-06-24
 - Initial public release
 
-[Unreleased]:  https://github.com/gmitirol/alpine310/compare/1.0.19...HEAD
+[Unreleased]:  https://github.com/gmitirol/alpine310/compare/1.0.20...HEAD
+[1.0.20]: https://github.com/gmitirol/alpine310/compare/1.0.19...1.0.20
 [1.0.19]: https://github.com/gmitirol/alpine310/compare/1.0.18...1.0.19
 [1.0.18]: https://github.com/gmitirol/alpine310/compare/1.0.17...1.0.18
 [1.0.17]: https://github.com/gmitirol/alpine310/compare/1.0.16...1.0.17
